@@ -1,0 +1,35 @@
+body {
+    background-color: #503ef1;
+}
+
+.m-0 {
+    background-color: #52e6cd;
+    font-family: 'Georgia', Times, serif;
+}
+
+.col {
+    background-color: #ffffff;
+    font-family: 'Georgia', Times, serif;
+}
+
+.card-title{
+    font-weight: bolder;
+}
+
+p {
+    font-style: oblique;
+}
+
+button {
+    display: inline-block;
+    border: 3px solid #3f0000;
+	border-radius: 25px;
+	height: 30px;
+	font-size: 15px;
+	font-weight: 500;
+	color: rgb(9, 9, 9);
+	background-color: #25ce03;
+	position: relative;
+    margin-left: 32px;
+    margin-right: 32px;
+}
